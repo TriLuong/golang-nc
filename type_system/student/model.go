@@ -11,6 +11,6 @@ func (s Student) GetFullName() string {
 	return s.FirstName + " " + s.LastName
 }
 
-func (s *Student) SetEmail(e string) {
-	s.Email = e
-}
+// func (s *Student) SetEmail(e string) {
+// 	s.Email = e
+// }
