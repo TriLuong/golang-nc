@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/letanthang/demo_golang/type_system/student"
+	"github.com/Triluong/golang-nc/demo_golang/type_system/student"
 	"strconv"
 )
 
